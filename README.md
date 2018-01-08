@@ -27,6 +27,12 @@ qt.bsm_option_pricer(type = 'eu',strike = '10',vol = 0.2,expiration = '365') - N
    - Profit Graph
 3. Backtesting
 4. Trading Strategies
+   - Pair Trade
+   - Multi-factors
+5. Arbitrage Finder
+   - Statistical Arbitrage
+   - Convertible Bonds Arbitrage
+   - Triangle Arbitrage
 
 ## References
 1. DerivaGem 3.0 by 'Wall Street Bible'
