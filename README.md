@@ -5,11 +5,15 @@ All-in-one open-source quant library that values simplicity and elegance.
 Build and a set of clean APIs that simplify the daily routine part and cliches of a quant's job and help you better focus on what are really important, which is the structure design.
 
 ## Installation
+```python
 pip install quant
+```
 
 ## Hello World
+```python
 import quant as qt
 qt.bsm_option_pricer(type = 'eu',strike = '10',vol = 0.2,expiration = '365') - Needs Improvements
+```
 
 ## Core Functions
 1. Option Pricing
