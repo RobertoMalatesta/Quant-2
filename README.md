@@ -2,11 +2,7 @@
 All-in-one open-source quant library that values simplicity and elegance.
 
 ## Philosophy
-Build and a set of clean APIs that simplify the daily routine part and cliches of a quant's job and help you better focus on what are really important, which is structure design and 
-
-## References
-1. DerivaGem 3.0 by 'Wall Street Bible'
-2. Matlab Quant Finance 
+Build and a set of clean APIs that simplify the daily routine part and cliches of a quant's job and help you better focus on what are really important, which is the structure design.
 
 ## Installation
 pip install quant
@@ -15,5 +11,18 @@ pip install quant
 import quant as qt
 qt.bsm_option_pricer(type = 'eu',strike = '10',vol = 0.2,expiration = '365') - Needs Improvements
 
-# 
+## Core Functions
+1. Option Pricing
+   - Equity (Vanilla, Binary, Lookback, Asian)
+   - Fixed Income (Swap, Cap/Floor, Swaptions)
+   - Other Tools (Vasicek estimation, Debt pricing)
+   - BSM 
+   - Binary Tree
+   - Monte-carlo Simulation
+2. Visualization
+   - Profit Graph
+3. Backtesting
 
+## References
+1. DerivaGem 3.0 by 'Wall Street Bible'
+2. Matlab Quant Finance Model
