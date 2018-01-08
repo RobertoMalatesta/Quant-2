@@ -29,6 +29,9 @@ qt.bsm_option_pricer(type = 'eu',strike = '10',vol = 0.2,expiration = '365') - N
 4. Common Trading Strategies
    - Pair Trade
    - Multi-factors
+   - Smart-beta
+   - Absolute Aplha
+   - Risk Timing
 5. Options Strategies
    - Straddle/Strangle
    - Bull/Bear Spread
