@@ -1,5 +1,5 @@
 # Quant
-All-in-one open-source quant library that values simplicity and elegance.
+All-in-one open-source quant library that values simplicity and elegance, to democratize those 'proprietary techniques'.
 
 ## Philosophy
 Build and a set of clean APIs that simplify the daily routine part and cliches of a quant's job and help you better focus on what are really important, which is the structure design.
