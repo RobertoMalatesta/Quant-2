@@ -22,6 +22,7 @@ qt.bsm_option_pricer(type = 'eu',strike = '10',vol = 0.2,expiration = '365') - N
 2. Visualization
    - Profit Graph
 3. Backtesting
+4. Trading Strategies
 
 ## References
 1. DerivaGem 3.0 by 'Wall Street Bible'
