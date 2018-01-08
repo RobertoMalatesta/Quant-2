@@ -24,7 +24,7 @@ qt.bsm_option_pricer(type = 'eu',strike = '10',vol = 0.2,expiration = '365') - N
    - Binary Tree
    - Monte-carlo Simulation
 2. Visualization
-   - Profit Graph
+   - Profit Graph for Options Strategies
 3. Backtesting
 4. Trading Strategies
    - Pair Trade
